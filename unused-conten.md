@@ -1,9 +1,8 @@
-# Unused Conten
+---
+description: Random content that could find it's home somewhere in these docs
+---
 
-
-
-  
-
+# Unused Content
 
 Principal tokens trading at a market discount function like zero-coupon bonds and unlock a whole new asset class in DeFi. Many investors will gravitate towards fixed yield instruments, creating demand for principal tokens while their sellers gain access to most of their principal. These become naturally appreciating assets that provide exposure to stable interest, as an alternative to collateralized lending markets which can require constant movement of funds. If you are long the underlying base asset, it’s also an effective way to acquire them at a discounted price to market, further boosting your expected returns. 
 

@@ -8,5 +8,5 @@
   * [Burning](how-it-works/burning.md)
 * [Use Cases](use-cases.md)
 * [FAQs](faqs.md)
-* [Unused Conten](unused-conten.md)
+* [Unused Content](unused-conten.md)
 
