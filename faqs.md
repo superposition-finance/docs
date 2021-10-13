@@ -1,12 +1,9 @@
 # FAQs
 
-## Are the pools subject to Impermanent Loss?
+## Can I burn Principal or Yield Tokens before vault maturity?
 
-TBD
+No. But a similar outcome can be obtained by exchanging your Principal and/or Yield Tokens on our AMM pools.
 
-## Have you had a chance to answer the previous question?
+## Are the AMM pools subject to Impermanent Loss?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
-
+Even though it is very minimal, with the current version of the protocol IL is unavoidable. Needless to say, pool fees make up for this loss and our team is working on releasing a more robust solution
