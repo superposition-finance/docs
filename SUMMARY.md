@@ -8,4 +8,3 @@
   * [Liquidity Provision](how-it-works/liquidity-provision.md)
   * [Burning](how-it-works/burning.md)
 * [Use Cases](use-cases.md)
-* [FAQs](faqs.md)

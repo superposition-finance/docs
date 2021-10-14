@@ -1,9 +1,9 @@
 # Swapping
 
-Swapping _**Principal and/or Yield Tokens**_ can be accomplished through the supporting Vault's AMM pools which can be found on the Vault page.
+Swapping Principal and/or Yield Tokens can be accomplished through the supporting Vault's AMM pools which can be found on the Vault page.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/App -- Swap.png>)
 
-The protocol currently supports trading _**Principal and Yield Tokens**_ against the _**yield-generating token's**_ underlying asset. 
+The protocol currently supports trading Principal and Yield Tokens against the yield-generating token's underlying asset. 
 
-E.g. A _**Saber USDC-USDT LP Principal Token**_ can be exchanged for _**USDC**_ or _**USDT**_
+E.g. A Saber USDC-USDT LP Principal Token can be exchanged for USDC or USDT
