@@ -10,6 +10,8 @@ Let’s assume that a DeFi user wishes to provide $10,000 worth of liquidity on 
 
 If he pursues that same strategy through a 12 month Superposition vault, he would receive 10,000 Principal Tokens redeemable for 10,000 USDC (or USDT) in a year, and 10,000 Yield Tokens redeemable for however much interest is generated on the relevant Saber pool over that year. If the average rate turned out to be 10%, then the Yield Tokens would have a terminal value of about 1,000 USDC (or 0.1 USDC per Interest Token).
 
+![](<../.gitbook/assets/image (2).png>)
+
 For a more detailed explanation of the functionality, you can visit the following pages:
 
 {% content-ref url="minting.md" %}
